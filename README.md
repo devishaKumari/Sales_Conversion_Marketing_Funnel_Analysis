@@ -1,4 +1,4 @@
-Project 7: Sales Conversion & Marketing Funnel Analysis
+Sales Conversion & Marketing Funnel Analysis
 
 Project Overview
 This project analyzes marketing campaign data to understand how customer demographics, lifestyle, and past purchases affect their likelihood to respond to marketing campaigns.The goal is to discover basic actionable insights to optimize sales funnels and marketing efforts.
